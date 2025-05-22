@@ -1,1 +1,12 @@
-
+{
+  "clientBots": [
+    {
+      "token": "7912631909:AAFHL3tAX8AO1ijy1SKio5229B68mz7B7xo",  // ← replace with your client bot token
+      "name": "ClientBot"
+    }
+  ],
+  "mainBot": {
+    "token": "7542656775:AAF24HqGSEm-39jif39Sex2z6L2cmgmgDck",      // ← replace with your main bot token
+    "logChatId": "7028738246"             // ← replace with your Telegram user ID or group ID
+  }
+}
